@@ -1,4 +1,4 @@
-# Data Scientist
+# Developer Ops
 
 ### Education
 Bachelor of Science in Information Technology  Sep 2003 - April  2008
