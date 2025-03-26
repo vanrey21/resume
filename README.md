@@ -1,4 +1,4 @@
-# Developer Ops
+# Developer Ops / Automation Engineer
 
 ### Education
 Bachelor of Science in Information Technology  Sep 2003 - April  2008
