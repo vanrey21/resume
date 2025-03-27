@@ -1,7 +1,7 @@
 ### Profile
 Mandaluyong City, Metro Manila • +639190075668 • reysonangeles@gmail.com
 
-[Linkdln](https://www.linkedin.com/in/reysonangeles/)
+[Linkedln Profile](https://www.linkedin.com/in/reysonangeles/)
 
 ### About
 With 14 years of expertise in customer service, technical support, and project management, I specialize in optimizing business operations through automation and AI-driven solutions. I have a strong background in automating CRM workflows, enhancing efficiency, and streamlining processes to improve customer experience and operational performance. My analytical and problem-solving skills enable me to assess needs, define requirements, and implement value-added solutions that drive business success.
