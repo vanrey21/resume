@@ -64,14 +64,14 @@ Skilled in CRM automation, AI tools, workflow optimization and process improveme
 | Automation & Database | CRM & Sales           | Communication           |
 |:----------------------|:----------------------|:------------------------|
 | Zapier                | Go High Level         | Zoom                    |
-| N8n                   | Shopify               | Microsoft Teams         |
+| N8n                   | Click Up              | Microsoft Teams         |
 | Make.com              | Amazon Seller Central | Slack                   |
 | Intercom              | Trello                | Miro                    |
 | Google Docs/Excel     | Jira                  | Facebook Page/Leads Ads |
-| BeenVerified          | Reonomyy              | Google Chat             |
-| Glide                 | Vulcan7               | Discord                 |
-| Webhooks              | Monday.com            | Notion                  |
-| Jotform               | Close.io              |                         |
+| BeenVerified          | Reonomy               | Google Chat             |
+| Glide                 | Shopify               | Discord                 |
+| Webhooks              | Zendesk               | Notion                  |
+| Jotform               | Close.io              | Monday.com              |
 | Airtable              | Follow Up Boss        |                         |
 
 ### Porfolio
