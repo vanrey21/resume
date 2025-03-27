@@ -67,7 +67,7 @@ Skilled in CRM automation, AI tools, workflow optimization and process improveme
 | N8n                   | Click Up              | Microsoft Teams         |
 | Make.com              | Zendesk               | Slack                   |
 | Airtable              | Trello                | Miro                    |
-| Google Docs/Excel     | Close.io              | Facebook Page/Leads Ads |
+| G Docs/Excel          | Close.io              | FB Page/Leads Ads       |
 | Monday.com            | Reonomy               | Google Chat             |
 | Glide                 | Shopify               | Discord                 |
 | Webhooks              | Amazon Seller Central | Notion                  |
