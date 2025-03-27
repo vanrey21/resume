@@ -1,32 +1,4 @@
 title: Reyson Angeles
 logo: /assets/img/Profile.png
-description: https://www.linkedin.com/in/reysonangeles/
+#description: 
 theme: jekyll-theme-minimal
-# Method 1: Simple URL List
-urls:
-  linkedin: https://www.linkedin.com/in/username
-  github: https://github.com/username
-  twitter: https://twitter.com/username
-  website: https://yourportfolio.com
-
-# Method 2: Contact Information
-contact:
-  email: your.email@example.com
-  phone: "+1-123-456-7890"
-  links:
-    - name: LinkedIn
-      url: https://www.linkedin.com/in/username
-    - name: GitHub
-      url: https://github.com/username
-
-# Method 3: Separate Social Media Links
-social:
-  - platform: LinkedIn
-    icon: linkedin
-    link: https://www.linkedin.com/in/username
-  - platform: GitHub
-    icon: github
-    link: https://github.com/username
-  - platform: Facebook
-    icon: facebook
-    link: https://www.facebook.com/username
