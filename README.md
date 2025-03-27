@@ -70,7 +70,7 @@ Skilled in CRM automation, AI tools, workflow optimization and process improveme
 | Google Docs/Excel     | Jira                  | Facebook Page/Leads Ads |
 | BeenVerified          | Reonomyy              | Google Chat             |
 | Glide                 | Vulcan7               | Discord                 |
-| Webhooks              | Monday.com            |                         |
+| Webhooks              | Monday.com            | Notion                  |
 | Jotform               | Close.io              |                         |
 | Airtable              | Follow Up Boss        |                         |
 
