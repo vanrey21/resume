@@ -60,7 +60,6 @@ Skilled in CRM automation, AI tools, workflow optimization and process improveme
 - Remote Technical Support
 
 ### Software Experience
-
 |                          |             |                        |
 |:-------------------------|:------------|:-----------------------|
 | Zapier                   | Make        | N8n                    |
@@ -72,6 +71,7 @@ Skilled in CRM automation, AI tools, workflow optimization and process improveme
 | BeenVerified             | Reonomy     | Vulcan7                |
 | Glide                    | Miro        | Followup Boss          |
 | Reonomy                  | Reonomy     | Monday.com             |
+
 
 ### Porfolio
 
