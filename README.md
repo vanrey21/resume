@@ -60,7 +60,8 @@ Skilled in CRM automation, AI tools, workflow optimization and process improveme
 - Remote Technical Support
 
 ### Software Experience
-|                          |             |                        |
+
+|**List**                  |             |                        |
 |:-------------------------|:------------|:-----------------------|
 | Zapier                   | Make        | N8n                    |
 | Slack                    | GoHighLevel | Airtable               |
