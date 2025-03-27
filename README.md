@@ -4,11 +4,10 @@ With 14 years of expertise in customer service, technical support, and project m
 Skilled in CRM automation, AI tools, workflow optimization and process improvement, I am passionate about leveraging technology to enhance productivity and efficiency.
 
 ### Education
-**Bachelor of Science in Information Technology**
 
-Sep 2003 - April  2008
-
-School Universidad De Dagupan
+| Course                                         | School                        | Year                 |
+|:-----------------------------------------------|:------------------------------|:---------------------|
+| Bachelor of Science in Information Technology  | School Universidad De Dagupan | Sep 2003-April 2008  |
 
 ### Work Experience
 
