@@ -2,7 +2,9 @@
 
 ### Education
 **Bachelor of Science in Information Technology**
+
 Sep 2003 - April  2008
+
 School Universidad De Dagupan
 
 ### Work Experience
@@ -78,4 +80,18 @@ School Universidad De Dagupan
 
 ### Porfolio
 
-![nnrl3nO](https://i.imgur.com/nnrl3nO.png)
+**Zapier**
+![xcZ92ul](https://i.imgur.com/xcZ92ul.png)
+Connecting Tasks from another CRM
+
+**Make**
+![LXzIVFF](https://i.imgur.com/LXzIVFF.png)
+Syncing Tasks from ClickUp to Airtable
+
+**n8n**
+![JKhZMfv](https://i.imgur.com/JKhZMfv.png)
+Creating an AI Agent to Query and Create Task for you
+
+**GoHighLevel**
+![6HBeEkU](https://i.imgur.com/6HBeEkU.png)
+Automation for Leads in GHL for auto follow-up sequences 
