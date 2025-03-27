@@ -1,7 +1,8 @@
 # Developer Ops / Automation Engineer
 
 ### Education
-Bachelor of Science in Information Technology  Sep 2003 - April  2008
+**Bachelor of Science in Information Technology**
+Sep 2003 - April  2008
 School Universidad De Dagupan
 
 ### Work Experience
@@ -74,3 +75,7 @@ School Universidad De Dagupan
 - Monday.com
 - Airtable
 - Webhooks
+
+### Porfolio
+
+![Airtable](https://drive.google.com/file/d/13TqvGNXGXnbrlOxzVy66-r0tPg1BKKCU/view?usp=sharing)
