@@ -67,10 +67,9 @@ Skilled in CRM automation, AI tools, workflow optimization and process improveme
 | Trello                   | Webhooks    | Jotform                |
 | Intercom                 | Shopify     | Amazon Seller Central  |
 | Google Docs/Excel        | MS 360      | Notion                 |
-| Facebook Page/Leads Ads  | Jira        | N8n                    |
+| Facebook Page/Leads Ads  | Jira        | Monday.com             |
 | BeenVerified             | Reonomy     | Vulcan7                |
 | Glide                    | Miro        | Followup Boss          |
-| Reonomy                  | Reonomy     | Monday.com             |
 
 
 ### Porfolio
