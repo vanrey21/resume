@@ -60,32 +60,18 @@ Skilled in CRM automation, AI tools, workflow optimization and process improveme
 - Remote Technical Support
 
 ### Software Experience
-- Zapier
-- Make
-- N8n
-- Slack
-- GoHighLevel
-- Airtable
-- Trello
-- Webhooks
-- ClickUp
-- Asana
-- Zendesk
-- Jotform
-- Intercom
-- Shopify
-- Amazon Seller Central
-- Google Docs/Excel
-- MS 360
-- Notion
-- Facebook Page/Leads Ads
-- Jira
-- BeenVerified
-- Reonomy
-- Vulcan7
-- Glide
-- Miro
-- Monday.com
+
+| List                     |             |                        |
+|:-------------------------|:------------|:-----------------------|
+| Zapier                   | Make        | N8n                    |
+| Slack                    | GoHighLevel | Airtable               |
+| Trello                   | Webhooks    | Jotform                |
+| Intercom                 | Shopify     | Amazon Seller Central  |
+| Google Docs/Excel        | MS 360      | Notion                 |
+| Facebook Page/Leads Ads  | Jira        | N8n                    |
+| BeenVerified             | Reonomy     | Vulcan7                |
+| Glide                    | Miro        | Followup Boss          |
+| Reonomy                  | Reonomy     | Monday.com             |
 
 ### Porfolio
 
