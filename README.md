@@ -78,4 +78,4 @@ School Universidad De Dagupan
 
 ### Porfolio
 
-![Airtable](https://drive.google.com/file/d/13TqvGNXGXnbrlOxzVy66-r0tPg1BKKCU/view?usp=sharing)
+![2p71KWJ](https://imgur.com/a/2p71KWJ)
