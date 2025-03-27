@@ -71,8 +71,8 @@ Skilled in CRM automation, AI tools, workflow optimization and process improveme
 | BeenVerified          | Reonomy               | Google Chat             |
 | Glide                 | Shopify               | Discord                 |
 | Webhooks              | Zendesk               | Notion                  |
-| Jotform               | Close.io              | Intercom                |
-| Airtable              | Follow Up Boss        |                         |
+| PostreSQL             | Close.io              | Intercom                |
+| Airtable              | Follow Up Boss        | Jotform                 |
 
 ### Porfolio
 
