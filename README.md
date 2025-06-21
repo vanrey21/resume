@@ -1,5 +1,5 @@
 ### Profile
-Mandaluyong City, Metro Manila • +639190075668 • reysonangeles@gmail.com
+Mandaluyong City, Metro Manila • reysonangeles@gmail.com
 
 [Linkedln Profile](https://www.linkedin.com/in/reysonangeles/)
 
@@ -10,9 +10,9 @@ Skilled in CRM automation, AI tools, workflow optimization and process improveme
 
 ### Education
 
-| Course                                         | School                        | Year                 |
-|:-----------------------------------------------|:------------------------------|:---------------------|
-| Bachelor of Science in Information Technology  | School Universidad De Dagupan | Sep 2003-April 2008  |
+| Course                                         | School                 | Year                 |
+|:-----------------------------------------------|:-----------------------|:---------------------|
+| Bachelor of Science in Information Technology  | Universidad De Dagupan | Sep 2003-April 2008  |
 
 ### Work Experience
 
