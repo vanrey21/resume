@@ -17,7 +17,7 @@ Skilled in CRM automation, AI tools, workflow optimization and process improveme
 ### Work Experience
 
 #### Technical Support Engineer | Infinity Support | Zapier
-01-2024 - Present
+01-2024 - 05-2025
 - Respond to support requests from end-users (email and chat) and patiently walk individuals through troubleshooting tasks, reproduce end-users environments, and run tests.
 - Set up and manage automation workflows for Zapier integrations between various apps
 - Collaborate with the team to identify automation needs and various solutions
