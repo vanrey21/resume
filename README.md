@@ -4,7 +4,7 @@ Mandaluyong City, Metro Manila • +639190075668 • reysonangeles@gmail.com
 [Linkedln Profile](https://www.linkedin.com/in/reysonangeles/)
 
 ### About
-With 14 years of expertise in customer service, technical support, and project management, I specialize in optimizing business operations through automation and AI-driven solutions. I have a strong background in automating CRM workflows, enhancing efficiency, and streamlining processes to improve customer experience and operational performance. My analytical and problem-solving skills enable me to assess needs, define requirements, and implement value-added solutions that drive business success.
+With 16 years of expertise in customer service, technical support, and project management, I specialize in optimizing business operations through automation and AI-driven solutions. I have a strong background in automating CRM workflows, enhancing efficiency, and streamlining processes to improve customer experience and operational performance. My analytical and problem-solving skills enable me to assess needs, define requirements, and implement value-added solutions that drive business success.
 
 Skilled in CRM automation, AI tools, workflow optimization and process improvement, I am passionate about leveraging technology to enhance productivity and efficiency.
 
@@ -46,6 +46,12 @@ Skilled in CRM automation, AI tools, workflow optimization and process improveme
 - Installing Operating System & related software, TCP/IP, DHCP, network connectivity, LAN/WAN
 - Managing MS Exchange, Outlook and Active -Directory
 
+### Certification
+
+| Course                                            | Certificate ID   | Year Issued     |
+|:--------------------------------------------------|:-----------------|:----------------|
+| Google Google IT Support Professional Certificate | P3FESJC4TX85     | June 2025       |
+
 ### Skills
 - Technical Support
 - Workflow Automation
@@ -61,18 +67,18 @@ Skilled in CRM automation, AI tools, workflow optimization and process improveme
 
 ### Software Experience
 
-| Automation & Database | CRM & Sales           | Communication           |
-|:----------------------|:----------------------|:------------------------|
-| Zapier                | Go High Level         | Zoom                    |
-| N8n                   | Click Up              | Microsoft Teams         |
-| Make.com              | Zendesk               | Slack                   |
-| Airtable              | Trello                | Miro                    |
-| G Docs/Excel          | Close.io              | FB Page/Leads Ads       |
-| Monday.com            | Reonomy               | Google Chat             |
-| Glide                 | Shopify               | Discord                 |
-| Webhooks              | Amazon Seller Central | Notion                  |
-| PostreSQL             | Jira                  | Intercom                |
-| BeenVerified          | Follow Up Boss        | Jotform                 |
+| Automation & Database | CRM & Sales           | Communication           | Technical                  |
+|:----------------------|:----------------------|:------------------------|:---------------------------|
+| Zapier                | Go High Level         | Zoom                    | Microsoft Exchanger Server |
+| N8n                   | Click Up              | Microsoft Teams         | Windows OS Server          |
+| Make.com              | Zendesk               | Slack                   | Active Directory           |
+| Airtable              | Trello                | Miro                    | Lotus Domino Server        |
+| G Docs/Excel          | Close.io              | FB Page/Leads Ads       | Linux / MAC OS             |
+| Monday.com            | Reonomy               | Google Chat             | VM Ware / Hyper V          |
+| Glide                 | Shopify               | Discord                 | Nutanix Server             |
+| Webhooks              | Amazon Seller Central | Notion                  | Back-up & Recovery         |
+| PostreSQL             | Jira                  | Intercom                | VX Rail                    |
+| BeenVerified          | Canva                 | Jotform                 | Python / VS Code           |
 
 ### Porfolio
 
@@ -91,3 +97,6 @@ Creating an AI Agent to Query and Create Task for you
 **GoHighLevel**
 ![6HBeEkU](https://i.imgur.com/6HBeEkU.png)
 Automation for Leads in GHL for auto follow-up sequences 
+
+### Reference
+Reference Available upon request
